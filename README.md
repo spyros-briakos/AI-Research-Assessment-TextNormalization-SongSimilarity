@@ -130,6 +130,4 @@ This project demonstrates that **hybrid models**, particularly those combining *
 
 Future work will focus on leveraging **heavier LLMs**, **ensemble learning**, **fine-tuning** for domain-specific tasks, and scaling to larger datasets. These developments will help further enhance the performance and scalability of our models for real-world applications.
 
-## Final Note
-
 After all the experiments and computational gymnastics performed, it turns out that *GPT-4o mini* only costs **X euros** to run... Well, if we don't count all the coffee and computational resources, that is! 😄
