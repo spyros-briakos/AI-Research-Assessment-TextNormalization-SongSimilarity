@@ -1,4 +1,4 @@
-# Orfium Hiring Assessment - AI Research Engineer
+# Orfium Hiring Assessment - AI/ML Research Engineer
 
 This repository contains my submission for the Orfium AI Research Engineer Assessment. The assessment consists of two tasks: Text Normalization and Cover Song Similarity. I have opted to complete the **Text Normalization** task as the full implementation and provide a detailed report for the **Cover Song Similarity** task.
 
