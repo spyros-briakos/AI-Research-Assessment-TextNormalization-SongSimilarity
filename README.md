@@ -11,8 +11,8 @@ This repository contains my submission for the Orfium AI Research Engineer Asses
 ## Time and Cost Breakdown
 
 - **Time**: 
-  - Each task took **2 days** to complete.
-  - In total, I spent **4 days** on the full assessment, considering a **1-week deadline**.
+  - Each assesment took **2 days** to complete.
+  - In total, I spent **4 days** for both assessments until delivery, considering a **1-week deadline**.
   
 - **Cost**:
   - The cost for utilizing OpenAI's models for text normalization (in terms of API calls) amounted to approximately **$2**.
