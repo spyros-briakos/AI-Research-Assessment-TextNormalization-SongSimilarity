@@ -1,6 +1,8 @@
 # AI/ML Research Engineer - Hiring Assessment
 
-This repository contains my submission for the Orfium AI Research Engineer Assessment. The assessment consists of two tasks: **Text Normalization** and **Cover Song Similarity**. I have opted to complete the **Text Normalization** task as the full implementation and provide a detailed report for the **Cover Song Similarity** task.
+This repository contains my submission for the Orfium AI Research Engineer Assessment. The assessment consists of two tasks: **Text Normalization** and **Cover Song Similarity**. I have opted to complete the **Text Normalization** task as the full implementation, providing [Notebook](https://colab.research.google.com/github/spyros-briakos/AI-Research-Assessment-TextNormalization-SongSimilarity/blob/main/Text_Normalization/Text_Normalization.ipynb) with its respective [Text Normalization Report](https://github.com/spyros-briakos/AI-Research-Assessment-TextNormalization-SongSimilarity/blob/main/Text_Normalization/Text_Normalization_Report.pdf)
+and provide a [Cover Song Similarity Report](https://github.com/spyros-briakos/AI-Research-Assessment-TextNormalization-SongSimilarity/blob/main/Cover_Song_Similarity/Cover_Song_Similarity_Report.pdf)
+for the **Cover Song Similarity** task.
 
 ## Repository Overview
 
@@ -14,6 +16,14 @@ This repository contains my submission for the Orfium AI Research Engineer Asses
   - `Da_Tacos.ipynb`: Notebook where I explored a bit with metadata of DA-TACOS dataset.
   - `da-tacos_metadata/`: Metadata files from the DA-TACOS dataset.
   - `Cover_Song_Similarity_Report.pdf`: A detailed report on my proposed methodology for the cover song similarity task.
+
+https://colab.research.google.com/github/username/repository/blob/main/notebook.ipynb
+Open Notebook in Google Colab
+<a href="https://colab.research.google.com/github/username/repository/blob/main/notebook.ipynb">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Google_Colab_logo_2021.svg/1024px-Google_Colab_logo_2021.svg.png" alt="Google Colab" style="width: 30px; height: 30px; vertical-align: middle;">
+  Open Notebook in Google Colab
+</a>
+
 
 - **Hiring_Assignment.pdf**: The original assessment brief and guidelines.
 
