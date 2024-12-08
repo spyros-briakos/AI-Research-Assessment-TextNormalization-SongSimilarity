@@ -7,6 +7,7 @@ This repository contains my submission for the Orfium AI Research Engineer Asses
 - **Text_Normalization.ipynb**: A Jupyter notebook that demonstrates my full implementation for the text normalization task.
 - **Text_Normalization_Report.pdf**: A PDF report detailing my approach, methodology, and findings for the text normalization task.
 - **Cover_Song_Similarity_Report.pdf**: A PDF that outlines my approach and methodology for the cover song similarity task. This task is not fully implemented, but the report provides a detailed explanation of the steps I would take.
+- **Hiring_Assignment.pdf**: A PDF that describes assignment objectives, includes guidelines and what exactly will be evaluated for each use case.
 
 ## Time and Cost Breakdown
 
@@ -15,4 +16,4 @@ This repository contains my submission for the Orfium AI Research Engineer Asses
   - In total, I spent **4 days** for both assessments until delivery, considering a **1-week deadline**.
   
 - **Cost**:
-  - The cost for utilizing OpenAI's models for text normalization (in terms of API calls) amounted to approximately **$2**.
+  - The cost of utilizing OpenAI's models for text normalization (in terms of API calls) amounted to approximately **$2**.
