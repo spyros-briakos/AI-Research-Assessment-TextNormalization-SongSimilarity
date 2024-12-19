@@ -17,14 +17,6 @@ for the **Cover Song Similarity** task.
   - `da-tacos_metadata/`: Metadata files from the DA-TACOS dataset.
   - `Cover_Song_Similarity_Report.pdf`: A detailed report on my proposed methodology for the cover song similarity task.
 
-https://colab.research.google.com/github/username/repository/blob/main/notebook.ipynb
-Open Notebook in Google Colab
-<a href="https://colab.research.google.com/github/username/repository/blob/main/notebook.ipynb">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Google_Colab_logo_2021.svg/1024px-Google_Colab_logo_2021.svg.png" alt="Google Colab" style="width: 30px; height: 30px; vertical-align: middle;">
-  Open Notebook in Google Colab
-</a>
-
-
 - **Hiring_Assignment.pdf**: The original assessment brief and guidelines.
 
 - **README.md**: Documentation for the repository.
